@@ -1,4 +1,10 @@
-# ChatRoom
+<h1 align="center">ChatRoom</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-7C3AED?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/Socket.io-0891B2?style=for-the-badge" alt="Socket.io" />
+</p>
 
 ChatRoom is a real-time chat application that allows multiple users to chat anonymously.
 
